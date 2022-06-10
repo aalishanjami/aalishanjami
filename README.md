@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aalishanjami
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on literally new things
+- 👀 5+ years of programming experience
+- 🌱 Full Stack Developer, expert in MERN, AWS, serverless GraphQL and Apollo
+- 💞️ I’m always in hunt of new technologies
 - 📫 How to reach me +923348228276
 
 <!---
