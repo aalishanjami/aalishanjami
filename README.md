@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/aalishanjami/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://calendly.com/aalishanjami">
+  <a href="https://calendly.com/aalishan/discussions">
     <img src="https://img.shields.io/badge/Calendly-Book%20a%20Chat-orange?style=flat-square&logo=calendly" alt="Calendly" />
   </a>
 </p>
@@ -63,14 +63,5 @@ Consistent track record with SaaS, startups, and industry leaders
 ### 📣 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aalishanjami/)
-[![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Chat-orange?style=flat-square&logo=calendly)](https://calendly.com/aalishanjami)
+[![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Chat-orange?style=flat-square&logo=calendly)](https://calendly.com/aalishan)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aalishanjami&show_icons=true&theme=default" alt="Aalishan Jami's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <b>Building with purpose, always hands-on.</b>
-</p>
